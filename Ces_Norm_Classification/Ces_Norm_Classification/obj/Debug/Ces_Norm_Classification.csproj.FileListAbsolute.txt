@@ -1,0 +1,9 @@
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\bin\Debug\Ces_Norm_Classification.exe.config
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\bin\Debug\Ces_Norm_Classification.exe
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\bin\Debug\Ces_Norm_Classification.pdb
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\obj\Debug\Ces_Norm_Classification.csprojResolveAssemblyReference.cache
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\obj\Debug\Ces_Norm_Classification.Form1.resources
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\obj\Debug\Ces_Norm_Classification.Properties.Resources.resources
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\obj\Debug\Ces_Norm_Classification.csproj.GenerateResource.Cache
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\obj\Debug\Ces_Norm_Classification.exe
+E:\Projects\Bassim BUE\Ces_Norm_Classification\Ces_Norm_Classification\obj\Debug\Ces_Norm_Classification.pdb

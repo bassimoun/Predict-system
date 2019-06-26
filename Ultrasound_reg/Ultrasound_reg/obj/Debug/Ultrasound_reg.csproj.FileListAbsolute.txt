@@ -1,0 +1,9 @@
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\bin\Debug\Ultrasound_reg.exe.config
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\bin\Debug\Ultrasound_reg.exe
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\bin\Debug\Ultrasound_reg.pdb
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\obj\Debug\Ultrasound_reg.csprojResolveAssemblyReference.cache
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\obj\Debug\Ultrasound_reg.Form1.resources
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\obj\Debug\Ultrasound_reg.Properties.Resources.resources
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\obj\Debug\Ultrasound_reg.csproj.GenerateResource.Cache
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\obj\Debug\Ultrasound_reg.exe
+E:\Projects\Bassim BUE\Ultrasound_reg\Ultrasound_reg\obj\Debug\Ultrasound_reg.pdb
